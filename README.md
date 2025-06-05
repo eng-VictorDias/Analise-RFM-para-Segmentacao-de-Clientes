@@ -139,9 +139,7 @@ Mapa de Concentração de Clientes, identificando regiões com maior número de 
 Gráfico de Colunas com Quantidade de Compras por Categoria, destacando os produtos mais adquiridos e os segmentos mais rentáveis.
 
 
-
-![image](https://github.com/user-attachments/assets/5b5b616b-560e-46b6-938e-6f47ab26373b)
-
+![Dashboard-Vendas-Análise-RFM](https://github.com/user-attachments/assets/84ae5df1-5ea0-4e24-a82e-cbaa0f0dcf92)
 
 
 Com essa estrutura, permitiu uma análise completa e interativa, possibilitando a criação de estratégias de retenção e campanhas personalizadas para cada segmento de cliente.

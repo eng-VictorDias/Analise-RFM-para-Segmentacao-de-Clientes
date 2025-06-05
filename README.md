@@ -124,19 +124,23 @@ Os principais elementos desenvolvidos no Power BI foram:
 
 1️⃣ Resumo Geral
 
+Número de vendas realizadas.
 Total de clientes cadastrados na base de dados.
 Faturamento total gerado por todas as compras.
 Ticket médio dos clientes, representando o valor médio gasto por cliente.
 
 2️⃣ Segmentação de Clientes
 
-Gráfico de barras exibindo a quantidade de clientes classificados como Inativos, Regulares e VIPs, conforme o modelo RFM.
-Filtro de Data permitindo selecionar períodos específicos para análise de compras e clientes ativos.
+Gráfico de pizza exibindo a quantidade de clientes classificados como Inativos, Regulares e VIPs, conforme o modelo RFM.
+Filtro de Data, permitindo selecionar períodos específicos para análise de compras e clientes ativos.
+Filtros de Canal de compra, e Categoria do Produto, analisando comportamento de compra e produtos mais faturados. 
+Gráficos de vendas por classificação, apresentando o número de vendas em quantidade, por classificação de clientes.
+Gráfico representando o Faturamento ao longo do tempo.
 
 3️⃣ Análises Geográficas e de Categoria
 
-Mapa de Concentração de Clientes, identificando regiões com maior número de compras.
-Gráfico de Colunas com Quantidade de Compras por Categoria, destacando os produtos mais adquiridos e os segmentos mais rentáveis.
+Mapa de Concentração de Clientes, identificando regiões com maior número de compras, segmentados por classificação.
+Gráfico de Colunas com Faturamento por Categorias, destacando as categorias de produtos mais adquiridos e os segmentos mais rentáveis.
 
 
 ![Dashboard-Vendas-Análise-RFM](https://github.com/user-attachments/assets/84ae5df1-5ea0-4e24-a82e-cbaa0f0dcf92)

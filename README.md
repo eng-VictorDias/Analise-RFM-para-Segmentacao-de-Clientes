@@ -145,6 +145,8 @@ Gráfico de Colunas com Faturamento por Categorias, destacando as categorias de 
 
 ![Dashboard-Vendas-Análise-RFM](https://github.com/user-attachments/assets/84ae5df1-5ea0-4e24-a82e-cbaa0f0dcf92)
 
+Para visualizar o Dashboard, [clique aqui](https://app.powerbi.com/view?r=eyJrIjoiMjhhNzYyYjAtZTFiNC00MmY3LWFlNGUtNzQxMDNjYmNlMWMwIiwidCI6IjgwMmVjYzgzLTM2MzctNDA4Ny04MzBiLTA5ZDc1MWU0MTM0ZSJ9)
+
 
 Com essa estrutura, permitiu uma análise completa e interativa, possibilitando a criação de estratégias de retenção e campanhas personalizadas para cada segmento de cliente.
 ## Tecnologias Utilizadas
